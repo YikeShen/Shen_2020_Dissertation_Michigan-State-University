@@ -13,8 +13,10 @@ Chapter III: Shen et al., 2021. Chemosphere.
 Comparing root concentration factors of antibiotics for lettuce (Lactuca sativa) measured in rhizosphere and bulk soils
 https://www.sciencedirect.com/science/article/pii/S0045653520318725
 
-Chapter IV: Shen et al., 2021. Science of the Total Environment. revision submitted
+Chapter IV: Shen et al., 2021. Science of the Total Environment.
 Bacterial Community Assembly and Antibiotic Resistance Genes in the Lettuce-Soil System upon Antibiotic Exposure
+https://www.sciencedirect.com/science/article/pii/S0048969721013231
 
-Chapter V: Shen et al., 2021. Jounal of Food Protection. in revision.
-Predicting Customers’ Buy and Pay Preferences for Labeled Food Products with Machine Learning
+Chapter V: Shen et al., 2021. Jounal of Food Protection.
+Assessing consumer buy and pay preferences for labeled food products with statistical and machine learning methods 
+https://doi.org/10.4315/JFP-20-486
